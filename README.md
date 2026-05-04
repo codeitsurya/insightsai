@@ -28,3 +28,7 @@ npm install
 npm run dev
 ```
 http://localhost:3000
+
+
+⚠ "next start" does not work with "output: standalone" configuration. Use "node .next/standalone/server.js" instead.
+"next start" does not work with "output: standalone" configuration. Use "node .next/standalone/server.js" instead.
